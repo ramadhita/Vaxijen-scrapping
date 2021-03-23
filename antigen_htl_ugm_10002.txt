@@ -1,0 +1,328 @@
+Your Sequence:
+
+>htl_ugm
+
+QSLLIVNNATNVVIK
+
+
+Overall Prediction for the Protective Antigen = 0.4343 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+SLLIVNNATNVVIKV
+
+
+Overall Prediction for the Protective Antigen = 0.4707 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+TQSLLIVNNATNVVI
+
+
+Overall Prediction for the Protective Antigen = 0.4333 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+KTQSLLIVNNATNVV
+
+
+Overall Prediction for the Protective Antigen = 0.6303 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+LLIVNNATNVVIKVC
+
+
+Overall Prediction for the Protective Antigen = 0.0998 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+FGEVFNATRFASVYA
+
+
+Overall Prediction for the Protective Antigen = 0.0415 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+GEVFNATRFASVYAW
+
+
+Overall Prediction for the Protective Antigen = -0.1202 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+PFGEVFNATRFASVY
+
+
+Overall Prediction for the Protective Antigen = 0.0331 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+EVFNATRFASVYAWN
+
+
+Overall Prediction for the Protective Antigen = 0.0832 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+VFNATRFASVYAWNR
+
+
+Overall Prediction for the Protective Antigen = 0.0745 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+TQQLIRAAEIRASAN
+
+
+Overall Prediction for the Protective Antigen = 0.0522 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+QQLIRAAEIRASANL
+
+
+Overall Prediction for the Protective Antigen = 0.1269 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+VTQQLIRAAEIRASA
+
+
+Overall Prediction for the Protective Antigen = 0.1268 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+QLIRAAEIRASANLA
+
+
+Overall Prediction for the Protective Antigen = 0.2407 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+LIRAAEIRASANLAA
+
+
+Overall Prediction for the Protective Antigen = 0.2895 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+THWFVTQRNFYEPQI
+
+
+Overall Prediction for the Protective Antigen = 0.3884 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+CPFGEVFNATRFASV
+
+
+Overall Prediction for the Protective Antigen = 0.2975 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+YVTQQLIRAAEIRAS
+
+
+Overall Prediction for the Protective Antigen = 0.1896 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+GINITRFQTLLALHR
+
+
+Overall Prediction for the Protective Antigen = 0.5582 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+DSSSGWTAGAAAYYV
+
+
+Overall Prediction for the Protective Antigen = 0.3802 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+AAEIRASANLAATKM
+
+
+Overall Prediction for the Protective Antigen = 0.7125 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+SSGWTAGAAAYYVGY
+
+
+Overall Prediction for the Protective Antigen = 0.4136 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+SSSGWTAGAAAYYVG
+
+
+Overall Prediction for the Protective Antigen = 0.3467 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+SGWTAGAAAYYVGYL
+
+
+Overall Prediction for the Protective Antigen = 0.4157 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+GTHWFVTQRNFYEPQ
+
+
+Overall Prediction for the Protective Antigen = 0.2274 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+HWFVTQRNFYEPQII
+
+
+Overall Prediction for the Protective Antigen = 0.5225 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+INITRFQTLLALHRS
+
+
+Overall Prediction for the Protective Antigen = 0.4118 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+NGTHWFVTQRNFYEP
+
+
+Overall Prediction for the Protective Antigen = 0.1638 ( Probable NON-ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+CTFEYVSQPFLMDLE
+
+
+Overall Prediction for the Protective Antigen = 0.5700 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+IIAYTMSLGAENSVA
+
+
+Overall Prediction for the Protective Antigen = 0.5426 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+AEIRASANLAATKMS
+
+
+Overall Prediction for the Protective Antigen = 0.8255 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+NCTFEYVSQPFLMDL
+
+
+Overall Prediction for the Protective Antigen = 0.5206 ( Probable ANTIGEN ).
+
+
+Your Sequence:
+
+>htl_ugm
+
+RFQTLLALHRSYLT
+
+
+Overall Prediction for the Protective Antigen = 0.3481 ( Probable NON-ANTIGEN ).
